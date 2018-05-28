@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="stone" type="id" />
+    <item name="mem" type="id" />
+    <item name="Memory" type="id" />
+    <item name="bg" type="id" />
+    <item name="reset" type="id" />
+    <item name="choose" type="id" />
+</resources>
